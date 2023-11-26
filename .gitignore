@@ -396,3 +396,10 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
