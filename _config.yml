@@ -155,11 +155,11 @@ header_pages:
    - tags.html
 
 # Page default value
- defaults:
-   home:
-     heading: "Bach-End development!"
-     subheading: "A blog about software, tech and all the fun stuff - according to me."
-     #banner: "Your image url"
+defaults:
+  home:
+    heading: "Bach-End development!"
+    subheading: "A blog about software, tech and all the fun stuff - according to me."
+    #banner: "Your image url"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
