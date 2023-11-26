@@ -159,7 +159,7 @@ defaults:
   home:
     heading: "Bach-End development!"
     subheading: "A blog about software, tech and all the fun stuff - according to me."
-    #banner: "Your image url"
+    banner: "/assets/images/banners/coding-background-faded.jpg"
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
