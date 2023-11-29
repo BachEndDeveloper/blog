@@ -3,16 +3,20 @@ layout: post
 title: Welcome to my blog!
 subtitle: Why another dev-blog? And why me?
 author: Martin
-categories: [General "Who am I" About]
+categories: 
+- General
+- About
 banner:
-  image: /assets/banner/keyboard.jpeg
+  image: /assets/images/banners/keyboard.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
   min_height: "38vh"
   heading_style: "font-size: 4.25em; font-weight: bold; text-decoration: underline"
   subheading_style: "color: gold"
-tags: about
+tags: 
+- About
+- General
 sidebar: []
 ---
 # Who am I
