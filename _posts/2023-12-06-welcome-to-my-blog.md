@@ -54,14 +54,17 @@ A way for me to get my thoughts inline.
 As I said, I've been wanting to do a blog for a long time, and I already have some blogposts
 written in hardcopies, along with some code.
 
-The topic will be
+The topics will be
 - DevEx, automating you local development environment
 - IaC
   - Terraform
   - Bicep
   - Pulumi
 
+I don't know when the blogposts will be out.
+First I will try to bring you along with me,
+as I start my new job.
 
 ## Engaging with me
-If anyone (future me included) wants to engage with me,
-hit me up on [https://dk.linkedin.com/in/martin-bach-7a022783](LinkedIn).
+If you want to engage with me,
+hit me up on [LinkedIn](https://dk.linkedin.com/in/martin-bach-7a022783).
