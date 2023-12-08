@@ -403,3 +403,5 @@ FodyWeavers.xsd
 .sass-cache
 _site
 Gemfile.lock
+
+.vscode/
