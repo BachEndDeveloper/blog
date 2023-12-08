@@ -18,6 +18,12 @@ tags:
 sidebar: []
 ---
 
+Hi  
+I want to use this post as a quick run through of my career so far.  
+What I've done and where I'm going. 
+
+Enjoy!
+
 ## Starting Out:
 Back in 2012, fresh out of school after arming myself with a degree in Computer Science, I delved into the professional world.  
 Over time, I have done what I can to go back to school for more courses a mix of Computer Science (TDD, Architecture, Cloud development), Management, and a few certifications.  
